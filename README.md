@@ -1,6 +1,4 @@
 ## MySQL: Converting all tables in all databases from MyISAM to InnoDB
-#### convert-to-innodb
-<hr>
 
 If you have plenty of databases with tables in MyISAM format which you'd like to convert to InnoDB, here is a bash script which will do it.
 
